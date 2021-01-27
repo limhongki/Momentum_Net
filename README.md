@@ -16,6 +16,6 @@ To reproduce the paper, please make sure you have the following:
 Michigan Image Reconstruction Toolbox (MIRT) installed:
 http://web.eecs.umich.edu/~fessler/code/index.html.  
 
-Modify paths in `pcodes_init.m` and `train_iy.py` (l8th line) in `mypcodes` folder.
+Modify paths in `pcodes_init.m` and `train_iy.py` in `mypcodes` folder.
 
 Then run `main_maptorch_ctrecon_ldEst_DeltaEst.m`.
