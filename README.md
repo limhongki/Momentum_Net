@@ -16,6 +16,9 @@ To reproduce the paper, please make sure you have the following:
 Michigan Image Reconstruction Toolbox (MIRT) installed:
 http://web.eecs.umich.edu/~fessler/code/index.html.  
 
+CT reconstruction data used in the paper:
+https://www.dropbox.com/s/9kwl6zope87mje6/data.zip?dl=0
+
 Modify paths in `pcodes_init.m` and `train_iy.py` in `mypcodes` folder.
 
 Then run `main_maptorch_ctrecon_ldEst_DeltaEst.m`.
