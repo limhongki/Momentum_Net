@@ -24,7 +24,7 @@ please do the following:
   http://web.eecs.umich.edu/~fessler/code/index.html
 
 * Download CT reconstruction data used in the paper:
-  https://www.dropbox.com/s/9kwl6zope87mje6/data.zip?dl=0
+  https://gofile.me/70I4p/KEOAV2Y4W
 
 * Modify paths in `pcodes_init.m` and `train_iy.py` in `mypcodes` folder.
 
